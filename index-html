@@ -3,12 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Hola món!!!</title>
+    <title>Hola món!</title>
     <h1>Aquesta és la meva primera web</h1>
-    <h2>Aquesta és la meva primera web</h2>
-    <h3>quelcom</h3>
+    <p>Bernat Fabregó, alumne de primer de batxilerat a l'institut de Taradell és un apasionat per la programació</p>
   </head>
   <body>
-    <p>Aquesta és la meva pàgina</p>
+    <p>Quelcom</p>
   </body>
 </html>
